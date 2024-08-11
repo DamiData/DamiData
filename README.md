@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Akande S. Damilola
 
 # ABOUT ME
-Welcome to my GitHub profile! I'm a passionate **Data Analyst and BI Analyst** with a strong foundation in data analytics, Proficient  in Python, SQL, Power BI, Excel, Tableau, PostgreSQL, and MS SQL Server.I specialize in turning raw data into meaningful insights that drive strategic business decisions. I firmly believe in the power of data to transform businesses and am committed to contributing my expertise to drive success, I turn data into actionable insights and creating visualizations that tell compelling stories.My goal is to bridge the gap between raw data and strategic decision-making, helping teams and companies harness the full potential of their information.
+Welcome to my GitHub profile! I'm a passionate **Data Analyst and BI Analyst** with a strong foundation in data analytics, Proficient  in Python, SQL, Power BI, Excel and Tableau .I specialize in turning raw data into meaningful insights that drive strategic business decisions. I love creating visualizations that tell compelling stories.My goal is to bridge the gap between raw data and strategic decision-making, helping teams and companies harness the full potential of their information.
 
 ---
 
@@ -48,6 +48,12 @@ Follow me on        [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?sty
 Visit my Portfolio  [![Personal Website](https://img.shields.io/badge/-Website-FF7139?style=flat&logo=firefox&logoColor=white)](https://www.datascienceportfol.io/damilola)
 
 Shoot me an Email   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@akandesekinat2004@gmail.com)
+
+---
+
+#### 💬 Get in Touch
+
+Feel free to reach out if you want to collaborate on a project, need help with data analysis, or just want to chat about tech!
 
 ---
 
