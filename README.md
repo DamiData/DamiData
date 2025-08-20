@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Akande S. Damilola
+# 👋 Hello, I'm Akande  Damilola
 
 ## ABOUT ME
 Welcome to my GitHub profile! I'm a passionate **Data Analyst and BI Analyst** with a strong foundation in data analytics, proficient in Python, SQL, Power BI, Excel and Tableau. I specialize in turning raw data into meaningful insights that drive strategic business decisions. I love creating visualizations that tell compelling stories. My goal is to bridge the gap between raw data and strategic decision-making, helping teams and companies harness the full potential of their information.
