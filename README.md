@@ -25,9 +25,9 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst and BI Analyst** w
 
 ## 🎥 My TikTok Page
 
-I create content on [TikTok](https://www.tiktok.com/@akandeoluwadamilola) where I dive into tech and data analysis. Follow me to explore insights into the tech industry, learn data analysis techniques, and get tips on how to advance your career in this exciting field!
+I create content on [TikTok](https://www.tiktok.com/@thedigitaldami1) where I dive into tech and data analysis. Follow me to explore insights into the tech industry, learn data analysis techniques, and get tips on how to advance your career in this exciting field!
 
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@akandeoluwadamilola)
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@thedigitaldami1)
 
 ---
 
@@ -41,7 +41,7 @@ I regularly write about data analysis, visualization techniques, and tips for as
 
 Connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akande-sekinat)
 
-Follow me on [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Haryanfe__)
+Follow me on [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/thedigitaldami1)
 
 Visit my Website [![Personal Website](https://img.shields.io/badge/-Website-FF7139?style=flat&logo=firefox&logoColor=white)](https://akandesekinat2004.wixsite.com/akande)
 
